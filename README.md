@@ -1,8 +1,9 @@
-# 🛍️ Digi Tools – Digital Products Marketplace
+# 🛍️ FurnitureBD – Digital Products Marketplace
 
 ## 🚀 Project Overview
 
-**Digi Tools** is a modern and fully responsive web application where users can browse, search, and manage digital products easily. The platform focuses on delivering a smooth user experience with clean UI, efficient state management, and essential eCommerce-like features.
+**FurnitureBD** is a responsive React application for browsing furniture products, viewing product details, and managing a wishlist with persistent local storage support.
+
 
 ---
 
