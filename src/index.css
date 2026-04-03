@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+
+a.active {
+  @apply bg-yellow-700 text-white hover:bg-yellow-600
+}
