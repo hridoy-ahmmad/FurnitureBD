@@ -5,6 +5,10 @@
 **FurnitureBD** is a responsive React application for browsing furniture products, viewing product details, and managing a wishlist with persistent local storage support.
 
 
+## 🔗 Live Demo & Repository
+
+* 🌐 Live Site: https://furniture-bd.netlify.app/
+* 💻 GitHub Repo: (https://github.com/hridoy-ahmmad/FurnitureBD.git)
 ---
 
 ## ✨ Key Features
@@ -124,10 +128,7 @@ Through this project, I learned:
 
 ---
 
-## 🔗 Live Demo & Repository
 
-* 🌐 Live Site: 
-* 💻 GitHub Repo: (https://github.com/hridoy-ahmmad/FurnitureBD.git)
 
 ---
 
